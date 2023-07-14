@@ -1,4 +1,5 @@
 # tic_tc_game
+simple mobile application using dart and flutter and GetX State manegement
 # portrait mode
 
 ![Screenshot_20230713-082748](https://github.com/mohamadrashid828/TicTac_game/assets/82722647/a4b7f415-21bf-4070-b61a-54cdfe174ea5)
