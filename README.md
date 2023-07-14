@@ -1,16 +1,11 @@
 # tic_tc_game
+# portrait mode
 
-A new Flutter project.
+![Screenshot_20230713-082748](https://github.com/mohamadrashid828/TicTac_game/assets/82722647/a4b7f415-21bf-4070-b61a-54cdfe174ea5)
 
-## Getting Started
+![Screenshot_20230713-082812](https://github.com/mohamadrashid828/TicTac_game/assets/82722647/e9825309-35be-450a-ba4e-0154bed0e69e)
 
-This project is a starting point for a Flutter application.
+## landscape mode
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230713-082915](https://github.com/mohamadrashid828/TicTac_game/assets/82722647/1291eed7-8a1f-498e-a2be-2e0caad5a506)
+![Screenshot_20230713-082849](https://github.com/mohamadrashid828/TicTac_game/assets/82722647/77cdf293-d4f1-473d-a776-ccb0169af8b4)
